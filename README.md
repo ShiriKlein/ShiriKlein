@@ -22,7 +22,7 @@ I'm committed to continuous growth and learning in the field of Computer Enginee
 You can connect with me through the following channels:
 
 - **GitHub**: [@ShiriKlein](https://github.com/ShiriKlein) 
-- **LinkedIn**: [Shiri's LinkedIn Profile](https://www.linkedin.com/in/shiriklein/) 
+- **LinkedIn**: [Shiri's LinkedIn Profile](https://www.linkedin.com/in/shiri-klein/) 
 - **Email**: shiriklein3@gmail.com
 
 Feel free to reach out for discussions or just to say hello! I'm excited to connect with like-minded computer engineering enthusiasts.
